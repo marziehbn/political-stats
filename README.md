@@ -1,0 +1,2 @@
+# political-stats
+Country analyzer
